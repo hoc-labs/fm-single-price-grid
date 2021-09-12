@@ -1,0 +1,12 @@
+@import url("https://fonts.googleapis.com/css2?family=Karla:wght@400;700&display=swap");
+
+body {
+  --cyan: hsl(179, 62%, 43%);
+  --cyan-lighter: hsl(179, 47%, 52%);
+  --yellow: hsl(71, 73%, 54%);
+  --lightGrey: hsl(204, 43%, 93%);
+  --blueGrey: hsl(218, 22%, 67%);
+  --white: hsl(69, 69%, 100%);
+
+  font-family: "Karla", sans-serif;
+}
